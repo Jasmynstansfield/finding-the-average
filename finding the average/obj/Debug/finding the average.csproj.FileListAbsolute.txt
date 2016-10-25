@@ -1,0 +1,9 @@
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\finding the average\finding the average\bin\Debug\finding the average.exe.config
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\finding the average\finding the average\obj\Debug\finding the average.csprojResolveAssemblyReference.cache
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\finding the average\finding the average\obj\Debug\finding_the_average.frmFindingTheAverage.resources
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\finding the average\finding the average\obj\Debug\finding_the_average.Properties.Resources.resources
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\finding the average\finding the average\obj\Debug\finding the average.csproj.GenerateResource.Cache
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\finding the average\finding the average\bin\Debug\finding the average.exe
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\finding the average\finding the average\bin\Debug\finding the average.pdb
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\finding the average\finding the average\obj\Debug\finding the average.exe
+\\sjsdfs1.sjsd.lcl\students\j.stansfield\my documents\visual studio 2015\Projects\finding the average\finding the average\obj\Debug\finding the average.pdb
